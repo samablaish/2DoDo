@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/support-annotations-25.4.0_86e03f340439660025ceea225726d8ac68f83ac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.7.0/2637055420a2da406e3ea9920c2ff4aafd38c970/butterknife-annotations-8.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2637055420a2da406e3ea9920c2ff4aafd38c970">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.7.0_77402682fefff18f1a2797148e7d1b0c02f1c738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_aa3d0cd950890fb813afffce0c34fe4ab357de0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/c7a9c648bad612391b6e6d126d726d5a30710d7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_09d7b90991ecc825a8287b69c22e82b9cf074e7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/2999a0b4ee2d5c7544b435cebbff9daf2631bcd5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_236b8c8079d28edcff2107e2fdb50d1af4e9dc24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/60c9a0b5154e277aa5fe5bb1d419b258836b08f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40a6b8f05124eb9e6012e18b80a6dbd13440e283">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_2e3ba8c82d81c96912cec4ff010809bcea67aacf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/9e513bee540bf5262983f9d568201610a22c4094/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_d3ad87c3fdd6c8205dd09a0bfc13fb94f5039877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/658fedace27a873ad682359850276eb713a1e1d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_c5b95d337a6e6dad705ed75aa65c50e8efccedcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/b884f13f6eaf708ea041581a201f975e826a80d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_c8f8c814bed64c90c6eedd2497f6a0e34c15f3f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/b91274a6146e3f34eb8e423bd212cd247278ff4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_75a567040c0e94295e5579db9c2ac5cae4733830.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/d7ad898940a3b1739bc578c64cde11b4b176f0b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_e3c75419dc5d0919075d5f8265c45425f4396e2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/f655dc30f958b0ad685b9662080dd3ce1a077b1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_bbc7774c1d30b251d09cd3ba5a95d22b55a82c9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/library-2.4.0_cd1a1936f348d09f4437e45494d07d51b4f1a3e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/83d36a668326cb340832d6769bcde45e2d7b1744/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_1954910e672aed391ed3e5392956b07a2f9854b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/0765a1d682c954cc9678eb09ecef85ad7fc007a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_857b41a40915233ed28abe730c48cf6955839b5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/7d42c7c6990b1083999a1d872214aba01a5c9e77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="189cdb5ed1f6c37a6c327b3a220ad1bb95bb64f1">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_ed140defca9130881feab0ec21e35f5994ce4611.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/bc0e502c9cdf93e363bd9bd72ee81fe7790e7619/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a889c98eedf85a7d9b77340e507ab9b60068e136">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_291d21f10db6b8e4a3fa32af74eceee1c48090c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/7a12404f3d93c7ce358ed8988fdeeda334f8a714/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_0e3fe751bcc08d24ca93583adfa6dd643e05e6df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/92257f3b5e61476ca63dd7de620f77d580026e8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cad1364721fc716a39bdc351d3637edb634c9aa5">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_524bd9125c2aa5bd23a766afa08c12822d2e75e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/bd7e09cbf3bf572f99c2f5d6f01696f3be580e19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b7d39c161cecdb6c2b52a1cdc71faf0ffd4626e">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_0172eb9fa4c07a10c69f89cb63290fd1cd54a6cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/ce84061d5bbd42bdb679db4b8668c51311a54d0f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_1cf2456143de0a0792498421b30315f53bdca6c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/moonray/.android/build-cache/ebb8000ec912fea2b13cfd1996c6d802c3251b41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/moonray/AndroidStudioProjects/Minitask/app/build/intermediates/pre-dexed/debug/classes_9afa8abdd3175042f6865d94647175df8c8a067f.jar" />
+    </item>
+
+</items>
